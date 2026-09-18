@@ -1,0 +1,8 @@
+# Build artifacts / executables
+quiz
+quiz.exe
+*.o
+*.obj
+
+# macOS system files
+.DS_Store
